@@ -1,38 +1,11 @@
 {
   "users": [
     {
-      "id": 1,
-      "name": "sdg"
-    },
-    {
-      "id": 2,
-      "name": "Thinh"
-    },
-    {
-      "id": 3,
-      "name": "asfszaf"
-    },
-    {
-      "name": "asfszaf"
-    },
-    {
-      "name": "sv"
-    },
-    {
-      "name": "s"
-    },
-    {
-      "name": "edt",
-      "id": "5svdCrk4i"
-    },
-    {
-      "name": "er",
-      "id": "hXeUnIgBS"
-    },
-    {
       "name": "ngoc tham",
       "phone": "01230123",
-      "id": "IcE9wNAAv"
+      "id": "IcE9wNAAv",
+      "email": "login@gmail.com",
+      "password": "123456"
     }
   ]
 }
